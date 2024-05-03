@@ -7,7 +7,7 @@ let number = prompt("Digite um número que represente um dia da semana.")
 
 switch (number) {
     case "1":
-        console.log("Segunda-feira");
+       console.log("Segunda-feira");
         break;
 
     case "2": 
