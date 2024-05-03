@@ -33,4 +33,4 @@ switch (number) {
     case "7": 
         console.log("Domingo");
         break;
-}
+}   
