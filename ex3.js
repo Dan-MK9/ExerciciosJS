@@ -11,6 +11,3 @@ if(number & 1){
 } else {
     alert("par");
 }
-
-
-
