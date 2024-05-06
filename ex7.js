@@ -8,6 +8,7 @@
 // Valor total da compra acima de R$ 200,00: desconto de 20%.
 // Exiba o valor final da compra com o desconto aplicado.
 
+
 let valorTotal = parseFloat(prompt("Informe o valor total da compra: "))
 
 let desconto;
