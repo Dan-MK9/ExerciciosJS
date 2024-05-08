@@ -10,5 +10,4 @@ for(let contador = 0; contador < 10; contador++){
     numC = numA + numB
     numA = numB
     numB = numC
-
 }
