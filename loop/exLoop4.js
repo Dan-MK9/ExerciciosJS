@@ -3,6 +3,20 @@
 
 let num = parseInt (prompt("Digite um numero para a tabuada"))
 
-for (let nx = 1; nx <= 10; nx++){
-    console.log(nx + " x " + nx + " = " + (nx * num))
+if(!isNaN(num)){
+
+    for (let nx = 1; nx <= 10; nx++){
+        console.log(nx + " x " + nx + " = " + (nx * num))
+    }
+
+} else{
+    console.log("Numero invalidade. Por favor, digite um numero valido.")
 }
+
+console.log(isNaN("Ola")) // retorna true
+console.log(isNaN(123)) // retorna false
+
+
+// invertendo "!"
+// console.log(isNaN("Ola")) // retorna false
+// console.log(isNaN(123)) // retorna true
