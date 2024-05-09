@@ -4,7 +4,7 @@
 // maior que 18.
 
 while (true){
-    let idade = prompt("Digite a sua idade: ")
+    let idade = parseInt(prompt("Digite a sua idade: "));
     if (idade >= 18) {
         console.log ("Maior de idade")
         break
