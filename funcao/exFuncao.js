@@ -1,0 +1,1 @@
+let menu = prompt("Digite uma opção: \n1 - CALCULO DE IMC: \n2 - DIA DA SEMANA: \n3 - ANO DE NASCIMENTO ")
