@@ -12,10 +12,10 @@
 // Chamada da função - executa a função
 // BemVindo("Danilo")
 
-function somar(num1, num2){
-    return num1 + num2;
-}
+//function somar(num1, num2){
+//    return num1 + num2;
+//}
 
-let resultado = somar(3, 7);
+//let resultado = somar(3, 7);
 
-console.log(resultado);
+//console.log(resultado);
