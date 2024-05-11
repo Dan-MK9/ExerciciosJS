@@ -20,3 +20,5 @@
 //    descricao: "Um homem, uma maquina",
 //    preco: "29.98"
 //}
+
+//"Digite uma opção: \n1 - CÁLCULO DE IMC: \n2 - DIA DA SEMANA: \n3 - ANO DE NASCIMENTO: \n4 - CONTAGEM REGRESSIVA: \n5 - NÚMERO IMPAR OU PAR: \n6 - SEQUÊNCIA FIBONACCI:"

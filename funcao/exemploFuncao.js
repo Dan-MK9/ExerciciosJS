@@ -1,21 +1,31 @@
-// Chamanfo a função alert
-// alert("Hello World")
+// Chamanfo a função alert //
 
-// Chamando o método log ()
+//alert("Hello World")
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Chamando o método log () //
+
 // console.log("Olá Danilo")
 
-// // Declaração da função - Ensinando o computador
-//  function BemVindo(nome) {
-//      console.log("Bem Vindo " + nome);
-// }
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-// Chamada da função - executa a função
-// BemVindo("Danilo")
+// Declaração da função - Ensinando o computador //
 
-//function somar(num1, num2){
-//    return num1 + num2;
+//function BemVindo(nome) {
+//    console.log("Bem Vindo " + nome);
 //}
 
-//let resultado = somar(3, 7);
+// Chamada da função - executa a função //
 
-//console.log(resultado);
+//BemVindo("Danilo")
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+function somar(num1, num2){
+    return num1 + num2;
+}
+
+let resultado = somar(10, 7);
+
+console.log(resultado);
